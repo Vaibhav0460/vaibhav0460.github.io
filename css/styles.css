@@ -3410,7 +3410,7 @@ img.u-pull-left {
 
 .about-info__pic {
     display        : block;
-    width          : 100%; /* Force it to stay inside the lg-6 column */
+    width          : 75%; /* Force it to stay inside the lg-6 column */
     height         : auto;
     aspect-ratio   : 3 / 4; /* Match this to your actual photo's aspect ratio */
     object-fit     : cover;
