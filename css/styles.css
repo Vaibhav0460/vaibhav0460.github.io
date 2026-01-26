@@ -3396,6 +3396,7 @@ img.u-pull-left {
 .s-about {
     padding-top    : var(--vspace-4);
     padding-bottom : var(--vspace-3);
+    min-height     : 100vh;
 }
 
 /* --------------------------------------------------------------------
